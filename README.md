@@ -91,5 +91,23 @@ when picking up an object. Then when this position of fingers is detected, we lo
 
 #### 4.1 How will this turn into force feedback?
 
+## Current Development
 
+Will need to modify the design of the servo hinge mechanism into something that is suitable for a human hand. I will design prototypes for a single finger, and after that has produced satisfactory results, we will produce a prototype for an entire hand. 
 
+Once the movement is developed and tested to be satisfactory, we need to begin looking into how we can serialize these values and pass them into the computer for processing and feeding it into the OpenVR driver. We will likely need arduino research and the purchase of a raspberry PI or microcontroller. We want to ideally do this wirelessly, so more research is currently needed.
+
+Once we have found a way to testably and satisfiably send the values to our computer. We can begin seeing if our prototype works well with the meta quest 2 hand tracking. If it works well, then we will proceed with the Medium Approach solution proposed for positional tracking. Although I am very much leaning towards the controller strap solution.
+
+Once the positional tracking issue has been solved, we will need to work on creating a driver in which our glove prototype can use to interact with the steamvr application. 
+
+**(TBC)**
+
+So, the current timeline roughly looks like:
+- [] Remodel the servo hinge mechanism 3d Model and produce a sample 3d model that works for a single finger (mechanically) and get it 3d printed
+- [] Once it satisfactorily works for a single finger, we repeat the process for a whole hand
+- [] Confirm that hand prototype works satisfactorily on a mechanical level
+- [] Research on how we can send values of servo rotation to computer wirelessly, design is minimalistic so avoiding wires is a plus
+- [] After methods have been tried and tested to be working, move into position tracking, likely use strapped on controllers
+- [] After hand tracking method has been decided, move into research for creating an OpenVR driver for our new prototype device.
+- (TBC)
