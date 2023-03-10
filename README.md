@@ -104,10 +104,10 @@ Once the positional tracking issue has been solved, we will need to work on crea
 **(TBC)**
 
 So, the current timeline roughly looks like:
-- [] Remodel the servo hinge mechanism 3d Model and produce a sample 3d model that works for a single finger (mechanically) and get it 3d printed
-- [] Once it satisfactorily works for a single finger, we repeat the process for a whole hand
-- [] Confirm that hand prototype works satisfactorily on a mechanical level
-- [] Research on how we can send values of servo rotation to computer wirelessly, design is minimalistic so avoiding wires is a plus
-- [] After methods have been tried and tested to be working, move into position tracking, likely use strapped on controllers
-- [] After hand tracking method has been decided, move into research for creating an OpenVR driver for our new prototype device.
-- (TBC)
+-[] Remodel the servo hinge mechanism 3d Model and produce a sample 3d model that works for a single finger (mechanically) and get it 3d printed
+-[] Once it satisfactorily works for a single finger, we repeat the process for a whole hand
+-[] Confirm that hand prototype works satisfactorily on a mechanical level
+-[] Research on how we can send values of servo rotation to computer wirelessly, design is minimalistic so avoiding wires is a plus
+-[] After methods have been tried and tested to be working, move into position tracking, likely use strapped on controllers
+-[] After hand tracking method has been decided, move into research for creating an OpenVR driver for our new prototype device.
+-(TBC)
