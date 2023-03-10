@@ -110,4 +110,4 @@ So, the current timeline roughly looks like:
 - [ ] Research on how we can send values of servo rotation to computer wirelessly, design is minimalistic so avoiding wires is a plus
 - [ ] After methods have been tried and tested to be working, move into position tracking, likely use strapped on controllers
 - [ ] After hand tracking method has been decided, move into research for creating an OpenVR driver for our new prototype device.
--(TBC)
+- (TBC)
