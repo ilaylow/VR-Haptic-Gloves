@@ -1,0 +1,38 @@
+Finger Servo V1
+- Diameter too small
+- Barely fits on pinky finger
+- Servo Mount fits but is too flimsy
+- Mounting brackets are too close to one another
+
+Finger Rotation V1
+- Diameter too small
+- Barely fits on any finger
+- Connector strands are too flimsy
+- Connecting straight bracket does not assist in rotation, pretty much useless
+
+
+Finger Servo V2
+- Increased width and length to 27mm (6mm increase on each)
+- Height is decreased by 4mm
+- Distance between brackets is increased by 4mm
+
+Finger Rotation V2
+- Increased width and length to 23mm (5 mm increase on each)
+- Reduced height by 5mm
+- Increased thickness of curve connector
+- Completely removed straight connector
+- Curved the curve connector more
+
+
+Finger Servo V2.1
+- Increased width and length to 26mm (5mm increase on each)
+- Height is decreased by 4mm
+- Distance between brackets is increased by 4mm
+
+Finger Rotation V2.1
+- Increased width and length to 24mm (6 mm increase on each)
+- Reduced height by 5mm
+- Increased thickness of curve connector
+- Completely removed straight connector
+- Curved the curve connector more
+- Elongated curve connector

@@ -1,0 +1,7 @@
+Index Finger:
+- Diameter: 20mm +- 1mm
+- Length From Base: 85mm +- 1mm
+- Length Of First Ring: 25mm?
+- Rotation Wheel to First Side: 12mm
+- Rotation Wheel to Second Side: 12mm + 2mm = 14mm
+- Servo 

@@ -1,0 +1,7 @@
+{
+  "alwaysActivate": true,
+  "name": "openvr_test",
+  "directory": "",
+  "resourceOnly": false,
+  "hmd_presence": []
+}
