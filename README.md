@@ -1,6 +1,9 @@
 # VR-Haptic-Gloves
 This will be a fairly large scale experimental project used to explore innovative ways to interact with VR through the use of Haptic Gloves.
 
+[finger_servo](./images/Finger_Servo_Prototype.png)
+[finger_rotation](./images/Finger_Rotation_Mechanism.png)
+
 **Main Goal**: Develop an Experimental VR Glove Prototype with Positional Tracking, Finger Tracking and Force Feedback.
 
 **Research Goal**: We want to prototype different approaches, this is not to build a working product. This is to experiment with different engineering methods
